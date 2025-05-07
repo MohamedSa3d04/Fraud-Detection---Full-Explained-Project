@@ -56,7 +56,7 @@ This project focuses on solving a **binary classification** problem where the da
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/binary-classification-imbalance.git
+git clone https://github.com/MohamedSa3d04/binary-classification-imbalance.git
 cd binary-classification-imbalance
 pip install -r requirements.txt
 ````
